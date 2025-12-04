@@ -53,3 +53,9 @@
     -   SSH is opened **only if** the user explicitly provides a CIDR
         block.
     -   Prevents unnecessary exposure of port 22 to the internet.
+
+![task_2-1](https://github.com/user-attachments/assets/7d719970-c54c-44c1-99cf-2eb7d61f73be)
+![task_2-2](https://github.com/user-attachments/assets/22ffcf44-4569-4ddc-b838-dfbf01ec8aee)
+![task_2-3](https://github.com/user-attachments/assets/2696431e-1ccb-4a6d-852f-31b8b92e8e6b)
+![task_2-4](https://github.com/user-attachments/assets/219710d8-8447-4809-9ae9-00857ef272e2)
+
